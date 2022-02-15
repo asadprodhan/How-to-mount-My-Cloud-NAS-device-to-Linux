@@ -1,4 +1,4 @@
-# **How to mount the My Cloud NAS device to the Linux computer** <br />
+# **How to mount My Cloud NAS device to Linux computer** <br />
 
 
 My Cloud NAS device is a digital data storage device. NAS stands for Network Attached Storage. As the name suggests, My Cloud NAS device can be connected to a network and thus accessed remotely. However, the NAS device first needs to be included (i.e. mounted) in the computer file system to access it. This is in contrast with the other data storage devices such as USB flash drives or Solid-State Drives (SSDs), which are automatically mounted in the file system when they are physically connected to a computer.
